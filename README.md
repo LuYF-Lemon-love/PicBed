@@ -1,1 +1,1 @@
-My Image Hosting Service that is managed by PicGo
+My Image Hosting Service that is managed by [PicGo](https://picgo.github.io/PicGo-Doc/)
